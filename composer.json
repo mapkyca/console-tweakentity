@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-tweakentity",
+    "type": "known-console",
+    "description": "A tool to tweak field values on a given entity",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "TweakEntity"
+    }
+}
